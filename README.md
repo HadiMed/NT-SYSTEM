@@ -7,5 +7,5 @@ NT_sys_shell  //in this case it uses winlogon by default
 ```
 or
 ```
-    NT_sys_shell Name_of_process 
+NT_sys_shell Name_of_process 
 ```
