@@ -1,10 +1,11 @@
 # NT-SYSTEM
 tool to get NT SYSTEM shell , its works by duplicating tokens of already running system processes , you can also specify a process . 
 Usage :
+run the following commands as admin
 ``` 
-nt-system.exe  //in this case it uses winlogon by default 
+NT-sys.shell  //in this case it uses winlogon by default 
 ```
 or
 ```
-    nt-system.exe Name_of_process 
+    NT_sys_shell Name_of_process 
 ```
