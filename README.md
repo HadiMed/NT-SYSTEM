@@ -3,7 +3,7 @@ tool to get NT SYSTEM shell , its works by duplicating tokens of already running
 Usage :
 run the following commands as admin
 ``` 
-NT-sys.shell  //in this case it uses winlogon by default 
+NT_sys_shell  //in this case it uses winlogon by default 
 ```
 or
 ```
